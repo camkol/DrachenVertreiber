@@ -11,4 +11,5 @@ Dragon Repeller(German Version)
 
 ## Notes
 
--Translated HTML text to German
+-Translated index.html text to German
+-Translated script.js text to German
